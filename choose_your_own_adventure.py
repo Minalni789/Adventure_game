@@ -9,8 +9,7 @@ if answer == 'left':
         print("You swim across and were eaten by crocodile.")
     elif answer == 'walk around':
         print("You survived, there is a bar on the other side of the lake!")
-    else:
-        print("Not a valid option. You died. ")
+   
         if answer == "right":
             print("You got hit by a truck and died")
 else:
